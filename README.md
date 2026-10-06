@@ -10,7 +10,7 @@
 
 ### 💻 Technical Stack
 
-Languages  │ Java • Python • C++ • JavaScript • TypeScript • SQL • HTML/CSS
+Languages  │ Java (Primary) • Python • C++ • JavaScript • TypeScript • SQL • HTML/CSS
 AI & ML    │ PyTorch • Scikit-Learn • NLP • Pandas • NumPy
 Web & App  │ Next.js • React • Node.js • Tailwind CSS • REST APIs
 Tools      │ Git • GitHub • pnpm • Vercel • VS Code • Linux
@@ -37,6 +37,5 @@ Tools      │ Git • GitHub • pnpm • Vercel • VS Code • Linux
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumkum-thakur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chaudharykumkum148@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumkum-thakur/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuadharykumkum148@gmail.com)
